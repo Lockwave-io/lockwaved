@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/sirupsen/logrus v1.9.4
-	github.com/urfave/cli/v3 v3.6.2
+	github.com/urfave/cli/v3 v3.8.0
 	golang.org/x/crypto v0.48.0
 	gopkg.in/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v3 v3.0.1
